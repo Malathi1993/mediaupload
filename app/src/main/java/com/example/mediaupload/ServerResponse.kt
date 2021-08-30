@@ -6,7 +6,8 @@ import com.google.gson.annotations.SerializedName
 internal class ServerResponse {
     fun getMessage(): Unit = Unit
 
-    fun getSuccess(): Boolean {}
+    fun getSuccess() {}
+}
 
 
 
